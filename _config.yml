@@ -21,11 +21,10 @@
 title: This is Xinran Zhang
 email: ranxinzh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! This is Xinran. Welcome to my webpage :)
+  This is Xinran. Welcome to my webpage :)
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://zhanxinr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 # Build settings
 theme: minima

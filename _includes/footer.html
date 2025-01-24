@@ -3,29 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Centered Footer</title>
+  <title>Footer</title>
   <style>
-    body {
-      margin: 0;
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-    }
-
     footer {
-      margin-top: auto; /* Pushes the footer to the bottom */
-      text-align: center; /* Centers the text */
+      font-family: 'Times New Roman', serif;
+      display: flex;
       justify-content: space-between;
-      padding: 10px;
+      align-items: center;
+      padding: 40px 40px;
+      margin-left: 20px;
+      margin-right: 20px;
+      background-color: #fefefe;
+      margin-top: auto; /* Push footer to the bottom if content is less */
+    }
+    .left, .right {
+      flex: 1;
+    }
+    .right {
+      text-align: right; /* Ensures the email is aligned to the right */
     }
   </style>
 </head>
-<body>
 <footer class="footer">
-  <div>
+  <div class="left">
     &copy; 2025 Xinran Zhang.
-    ranxinzh AT gmail DOT com
   </div>
+  <div class="right">ranxinzh@gmail.com</div>
 </footer>
-</body>
 </html>
