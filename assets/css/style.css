@@ -115,12 +115,11 @@ footer {
     padding: 20px 20px;
     margin-top: 20px;
     margin-left: 40px;
-    margin-right: 10px;
     flex: 1;
     float: right;
 }
 .page-content .image-home img {
-    width: auto;
+    width: 100%;
     height: auto;
     max-width: 100%;   /* Prevent the image from overflowing its container */
 }
@@ -160,7 +159,7 @@ footer {
 
     .page-content .wrapper-home{
         padding: 0;            /* Keep padding as-is */
-        margin: 20px 20px 20px 30px;
+        margin: 10px 20px 20px 30px;
         flex: none;               /* Prevent flex-grow/shrink behaviors */
         float: none;
     }
