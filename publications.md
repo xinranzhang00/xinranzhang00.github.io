@@ -7,7 +7,7 @@ title: Publications
 permalink: /publications/
 ---
 
-1. Here goes my publications, add the only one here. Anyways let me add the pdf first. [view](/files/AAMAS25_Logic_of_Knowledge_and_Cognitive_Ability-with_Appendix.pdf)
+1. Here goes my publications, add the only one here. Anyways let me add the pdf first. [view](/files/AAMAS25_Logic_of_Knowledge_and_Cognitive_Ability-with_Appendix.pdf){:target="_blank"}
 
 2. Let me also try a long line. Let me also try a long line. Let me also try a long line.
 Let me also try a long line. Let me also try a long line. Let me also try a long line.
