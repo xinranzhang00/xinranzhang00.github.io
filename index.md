@@ -6,11 +6,13 @@ layout: home
 permalink: /
 ---
 
-This should be homepage, I should write something.
+My name is Xinran Zhang. 
+I recently graduated with a Master of Engineering (M.Eng.) degree in Electrical and Computer Engineering from the University of Illinois Urbana-Champaign.
+Prior to this, I studied Philosophy and Computer Science in Lafayette College. 
 
-Should be some kind of introduction about myself.
-But right now I'm too lazy to write, so I will just wait till later when I have energy.
-Probably I can also add a like to my CV. And my interests. But that means I need to modify my CV as well.
-I want to sleep 10 hours every day. 
+My research interests fall in the Artificial Intelligence, Ethics, and Philosophy of Language.
+My research focuses on logical systems and Knowledge Representation and Reasoning. 
+In the future, I would also like to study on Argumentation within AI, aiming to enhance the ability of systems to engage in structured reasoning and
+decision-making processes.
 
 And here is a photo with golden fish! Happy new year and wish for good fortune :)

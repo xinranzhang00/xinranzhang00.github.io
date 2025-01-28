@@ -7,8 +7,6 @@ title: Publications
 permalink: /publications/
 ---
 
-1. Here goes my publications, add the only one here. Anyways let me add the pdf first. [view](/files/AAMAS25_Logic_of_Knowledge_and_Cognitive_Ability-with_Appendix.pdf){:target="_blank"}
+1. Jia Tao and Xinran Zhang: [Logic of Knowledge and Cognitive Ability](/files/AAMAS25_Logic_of_Knowledge_and_Cognitive_Ability-with_Appendix.pdf){:target="_blank"}, 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25), May 19–23, 2025, Detroit, Michigan, USA
 
-2. Let me also try a long line. Let me also try a long line. Let me also try a long line.
-Let me also try a long line. Let me also try a long line. Let me also try a long line.
-Let me also try a long line. Let me also try a long line. Let me also try a long line. 
+2. ...still working for the second one.
