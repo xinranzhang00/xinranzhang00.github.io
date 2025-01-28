@@ -14,5 +14,3 @@ My research interests fall in the Artificial Intelligence, Ethics, and Philosoph
 My research focuses on logical systems and Knowledge Representation and Reasoning. 
 In the future, I would also like to study on Argumentation within AI, aiming to enhance the ability of systems to engage in structured reasoning and
 decision-making processes.
-
-And here is a photo with golden fish! Happy new year and wish for good fortune :)
