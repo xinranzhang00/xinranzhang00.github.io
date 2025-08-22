@@ -150,6 +150,7 @@ footer {
 }
 .post-content{
     max-width: fit-content;
+    font-size: 18px;
 }
 
 @media screen and (max-width: 600px) {

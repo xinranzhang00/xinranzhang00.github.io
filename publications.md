@@ -7,6 +7,4 @@ title: Publications
 permalink: /publications/
 ---
 
-1. Jia Tao and Xinran Zhang: [Logic of Knowledge and Cognitive Ability](/files/AAMAS25_Logic_of_Knowledge_and_Cognitive_Ability-with-appendix.pdf){:target="_blank"}, 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25), May 19–23, 2025, Detroit, Michigan, USA
-
-2. ...still working for the second one.
+1. Jia Tao and Xinran Zhang: [Logic of Knowledge and Cognitive Ability](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2033.pdf){:target="_blank"}, 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-25), May 19–23, 2025, Detroit, Michigan, USA. ([Full version with Appendix](/files/AAMAS25_Logic_of_Knowledge_and_Cognitive_Ability-with-appendix.pdf){:target="_blank"})
